@@ -1,10 +1,19 @@
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy)
-![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn)
-![Gurobi](https://img.shields.io/badge/Gurobi-Optimization-blue)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex)
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-UnbreakablePACHES-000000?style=flat&logo=github&logoColor=white" />
+</p>
 
-
+<p align="center">
+  <img height="64" src="https://skillicons.dev/icons?i=python" />
+  <img height="64" src="https://skillicons.dev/icons?i=bash" />
+  <img height="64" src="https://skillicons.dev/icons?i=tensorflow" />
+  <img height="64" src="https://skillicons.dev/icons?i=pytorch" />
+  <img height="64" src="https://skillicons.dev/icons?i=sklearn" />
+  <img height="64" src="https://skillicons.dev/icons?i=opencv" />
+  <img height="64" src="https://skillicons.dev/icons?i=anaconda" />
+  <img height="64" src="https://skillicons.dev/icons?i=git" />
+  <img height="64" src="https://skillicons.dev/icons?i=github" />
+  <img height="64" src="https://skillicons.dev/icons?i=linux" />
+  <img height="64" src="https://skillicons.dev/icons?i=docker" />
+  <img height="64" src="https://skillicons.dev/icons?i=vscode" />
+</p>
 
