@@ -8,7 +8,6 @@
   <img height="64" src="https://skillicons.dev/icons?i=tensorflow" />
   <img height="64" src="https://skillicons.dev/icons?i=pytorch" />
   <img height="64" src="https://skillicons.dev/icons?i=sklearn" />
-  <img height="64" src="https://skillicons.dev/icons?i=opencv" />
   <img height="64" src="https://skillicons.dev/icons?i=anaconda" />
   <img height="64" src="https://skillicons.dev/icons?i=git" />
   <img height="64" src="https://skillicons.dev/icons?i=github" />
