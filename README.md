@@ -14,6 +14,8 @@
   <img height="64" src="https://skillicons.dev/icons?i=linux" />
   <img height="64" src="https://skillicons.dev/icons?i=docker" />
   <img height="64" src="https://skillicons.dev/icons?i=vscode" />
+  <img height="64" src="https://skillicons.dev/icons?i=latex" />
 </p>
+
 
 
