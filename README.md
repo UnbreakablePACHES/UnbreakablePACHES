@@ -18,6 +18,7 @@
 </p>
 <p align="center">
   <img src="https://cdn.simpleicons.org/claude?viewbox=auto&size=48">
+  <img src="https://cdn.simpleicons.org/googlegemini?viewbox=auto&size=48">
 </p>
 
 
