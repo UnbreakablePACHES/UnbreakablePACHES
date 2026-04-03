@@ -15,7 +15,7 @@
   <img height="64" src="https://skillicons.dev/icons?i=docker" />
   <img height="64" src="https://skillicons.dev/icons?i=vscode" />
   <img height="64" src="https://skillicons.dev/icons?i=latex" />
-  <img src="https://cdn.simpleicons.org/claude?viewbox=auto&size=20">
+  <img src="https://cdn.simpleicons.org/claude?viewbox=auto&size=64">
 </p>
 
 
