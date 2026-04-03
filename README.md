@@ -13,7 +13,6 @@
   <img height="64" src="https://cdn.simpleicons.org/git" />
   <img height="64" src="https://cdn.simpleicons.org/github" />
   <img height="64" src="https://cdn.simpleicons.org/docker" />
-  <img height="64" src="https://cdn.simpleicons.org/visualstudiocode" />
   <img height="64" src="https://cdn.simpleicons.org/latex" />
 </p>
 
