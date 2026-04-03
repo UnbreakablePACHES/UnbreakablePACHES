@@ -3,22 +3,23 @@
 </p>
 
 <p align="center">
-  <img height="64" src="https://skillicons.dev/icons?i=python" />
-  <img height="64" src="https://skillicons.dev/icons?i=bash" />
-  <img height="64" src="https://skillicons.dev/icons?i=gurobi" />
-  <img height="64" src="https://skillicons.dev/icons?i=tensorflow" />
-  <img height="64" src="https://skillicons.dev/icons?i=pytorch" />
-  <img height="64" src="https://skillicons.dev/icons?i=sklearn" />
-  <img height="64" src="https://skillicons.dev/icons?i=anaconda" />
-  <img height="64" src="https://skillicons.dev/icons?i=git" />
-  <img height="64" src="https://skillicons.dev/icons?i=github" />
-  <img height="64" src="https://skillicons.dev/icons?i=docker" />
-  <img height="64" src="https://skillicons.dev/icons?i=vscode" />
-  <img height="64" src="https://skillicons.dev/icons?i=latex" />
+  <img height="64" src="https://cdn.simpleicons.org/python" />
+  <img height="64" src="https://cdn.simpleicons.org/gnubash" />
+  <img height="64" src="https://cdn.simpleicons.org/gurobi" />
+  <img height="64" src="https://cdn.simpleicons.org/tensorflow" />
+  <img height="64" src="https://cdn.simpleicons.org/pytorch" />
+  <img height="64" src="https://cdn.simpleicons.org/scikitlearn" />
+  <img height="64" src="https://cdn.simpleicons.org/anaconda" />
+  <img height="64" src="https://cdn.simpleicons.org/git" />
+  <img height="64" src="https://cdn.simpleicons.org/github" />
+  <img height="64" src="https://cdn.simpleicons.org/docker" />
+  <img height="64" src="https://cdn.simpleicons.org/visualstudiocode" />
+  <img height="64" src="https://cdn.simpleicons.org/latex" />
 </p>
+
 <p align="center">
-  <img src="https://cdn.simpleicons.org/claude?viewbox=auto&size=48">
-  <img src="https://cdn.simpleicons.org/googlegemini?viewbox=auto&size=48">
+  <img height="64" src="https://cdn.simpleicons.org/anthropic" />
+  <img height="64" src="https://cdn.simpleicons.org/googlegemini" />
 </p>
 
 
