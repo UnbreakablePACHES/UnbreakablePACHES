@@ -5,6 +5,7 @@
 <p align="center">
   <img height="64" src="https://skillicons.dev/icons?i=python" />
   <img height="64" src="https://skillicons.dev/icons?i=bash" />
+  <img height="64" src="https://skillicons.dev/icons?i=gurobi" />
   <img height="64" src="https://skillicons.dev/icons?i=tensorflow" />
   <img height="64" src="https://skillicons.dev/icons?i=pytorch" />
   <img height="64" src="https://skillicons.dev/icons?i=sklearn" />
