@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img height="64" src="https://cdn.simpleicons.org/anthropic" />
+  <img height="64" src="https://cdn.simpleicons.org/claude" />
   <img height="64" src="https://cdn.simpleicons.org/googlegemini" />
 </p>
 
