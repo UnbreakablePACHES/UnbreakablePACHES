@@ -15,9 +15,7 @@
   <img height="64" src="https://skillicons.dev/icons?i=docker" />
   <img height="64" src="https://skillicons.dev/icons?i=vscode" />
   <img height="64" src="https://skillicons.dev/icons?i=latex" />
-  <img height="64" src="https://cdn.simpleicons.org/openai" />
-  <img height="64" src="https://cdn.simpleicons.org/anthropic" />
-  <img height="64" src="https://cdn.simpleicons.org/google" />
+  <img src="https://cdn.simpleicons.org/claude>
 </p>
 
 
