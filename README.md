@@ -17,7 +17,7 @@
   <img height="64" src="https://skillicons.dev/icons?i=latex" />
 </p>
 <p align="center">
-  <img src="https://cdn.simpleicons.org/claude?viewbox=auto&size=40">
+  <img src="https://cdn.simpleicons.org/claude?viewbox=auto&size=48">
 </p>
 
 
