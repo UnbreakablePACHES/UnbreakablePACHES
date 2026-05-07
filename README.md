@@ -18,7 +18,11 @@
 
 <p align="center">
   <img height="64" src="https://cdn.simpleicons.org/claude" />
-  <img height="1280" src="./icons/codex.svg" />
+  <img 
+  src="./icons/codex.svg?v=2" 
+  alt="Codex"
+  style="height:128px !important; width:auto !important; object-fit:contain;"
+/>
   <img height="64" src="https://cdn.simpleicons.org/googlegemini" />
 </p>
 
