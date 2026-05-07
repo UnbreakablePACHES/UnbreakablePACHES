@@ -21,7 +21,7 @@
   <img 
   src="./icons/codex.svg?v=2" 
   alt="Codex"
-  style="height:128px !important; width:auto !important; object-fit:contain;"
+  style="height:64px !important; width:auto !important; object-fit:contain;"
 />
   <img height="64" src="https://cdn.simpleicons.org/googlegemini" />
 </p>
